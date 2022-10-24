@@ -1,16 +1,21 @@
-### Hi there 👋
+😁¡Muy Buenas Lector/a, bienvenido/a a mi perfil!
 
-<!--
-**MateoSuaste/MateoSuaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Mateo Suaste, estudiante de CoderHouse, específicamente para ser Full Stack.
 
-Here are some ideas to get you started:
+❗Mis Soff Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟡 Siempre dispuesto a cumplir con lo que se me pide. Ya sea a la corta o a la larga.
+🟡 Flexibilidad para aprender nuevos conocimientos que pueda ayudarme a innovar. 
+🟡 Muy buena comunicación, que es de utilidad para trabajar en equipo.
+🟡 En proceso de aprendizaje en Inglés.
+
+❗Mis Hard Skills:
+
+🟡 HTML 5.
+🟡 CSS.
+🟡 JAVASCRIPT.
+🟡REACT JS.
+🟡 GIT Y GITHUB.
+
+☎️ ¡Que esperas, Contactame!
+📥 suastemateo24@gmail.com
