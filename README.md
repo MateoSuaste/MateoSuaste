@@ -1,10 +1,17 @@
 ## Hola 👋, soy Mateo Suaste!  
   
-
+<a href="https://github.com/MateoSuaste" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mateo-suaste-188575238" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 
 ### Me alegro verte aqui!  
 Soy programador Front End, pero quiero ser uno de pila completa, es decir, Full Stack. Esto me permitiría no solo crear aplicaciones y sitios web orientados al cliente, sino desarrollarlos con un soporte de backend de ultima generación.  
+
+
   
 
 <br/>  
