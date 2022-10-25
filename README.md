@@ -10,7 +10,7 @@ Soy programador Front End, pero quiero ser uno de pila completa, es decir, Full 
 <br/>  
 
 
-## Rapidfire  
+## Un poco sobre mi  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Actualmente estoy estudiando en Coder House  
@@ -37,7 +37,7 @@ Soy programador Front End, pero quiero ser uno de pila completa, es decir, Full 
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
@@ -55,7 +55,7 @@ Soy programador Front End, pero quiero ser uno de pila completa, es decir, Full 
 <br/>  
 
 
-## Github Stats  
+## Estadisticas de Github  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MateoSuaste&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -72,7 +72,7 @@ Soy programador Front End, pero quiero ser uno de pila completa, es decir, Full 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=MateoSuaste&&style=flat-square)  
+![Contador de vistas de perfil](https://komarev.com/ghpvc/?username=MateoSuaste&&style=flat-square)  
   
 
 <br/>  
